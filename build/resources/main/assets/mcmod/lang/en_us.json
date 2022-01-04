@@ -1,0 +1,6 @@
+{
+  "block.mcmod.test_ore": "Test Ore",
+  "item.mcmod.test_ingot": "Test Ingot",
+  "item.mcmod.test_ore_chunk": "Test Ore Chunk",
+  "itemGroup.mcmod": "mcmod"
+}
