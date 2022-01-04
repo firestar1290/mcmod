@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "mcmod:test_ore_chunk"
-  },
-  "result": "mcmod:test_ingot",
-  "experience": 0.0,
-  "cookingtime": 100
-}

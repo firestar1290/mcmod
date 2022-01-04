@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "tag": "mcmod:test_ore"
-  },
-  "result": "mcmod:test_ingot",
-  "experience": 1.0,
-  "cookingtime": 100
-}
