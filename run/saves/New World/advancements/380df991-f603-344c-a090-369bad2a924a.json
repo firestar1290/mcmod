@@ -1,0 +1,39 @@
+{
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2022-01-03 16:56:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2022-01-03 16:56:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mcmod/test_ingot2": {
+    "criteria": {
+      "has_chunk": "2022-01-03 16:57:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/mcmod/test_ingot1": {
+    "criteria": {
+      "has_ore": "2022-01-03 16:56:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2022-01-03 16:56:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-01-02 17:30:43 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}
